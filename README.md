@@ -32,3 +32,35 @@
 
 
 <br>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csj729&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csj729&layout=compact&theme=radical)
+
+</div>
+
+<br>
+
+---
+
+## 🎮 프로젝트
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[RandomItemDefense](https://github.com/csj729/RandomItemDefense)** | 아이템 뽑기를 이용한 1:1 PVP 대전 | Unreal, C++ |
+| **[Palworld - 모작](https://github.com/csj729/Palworld_Portfolio)** | 팰월드 모작 | Unreal, C++ |
+| **[Umamusume](https://github.com/csj729/UmaMusume)** | 우마무스메 2d Text 버전 | C++ |
+
+</div>
+
+<br>
+
+---
