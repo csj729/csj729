@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**csj729/csj729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>게임 개발자 천성준입니다.</h2>
+  <br>
+  <b>Github</b> <a href="https://github.com/csj729">csj729</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>E-mail</b> <a href="mailto:csj729@gmail.com">csj729@gmail.com</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Phone</b> 010-2997-7295
+</div>
+<br>
